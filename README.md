@@ -1,4 +1,4 @@
-<h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Kiran Mahajan</h1>
+<h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Rohit Gangawane</h1>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=lexend&weight=600&size=33&duration=7000&pause=1000&color=C0FF72&center=true&random=false&width=1200&lines=Frontend+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
 
@@ -6,11 +6,11 @@
 
 - 📍 I live in Maharashtra, India
 
-- 💻 I am currently working with technologies based on **Javascript**.
+- 💻 I am currently working with technologies based on **Python**.
 
-- 💬 Ask me about **JavaScript, React.js, Tailwind CSS, HTML, CSS**
+- 💬 Ask me about **C, Java, Python, HTML, CSS, Javascript**
 
-  [![Linkedin Badge](https://img.shields.io/badge/thekiranmahajan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thekiranmahajan/)](https://www.linkedin.com/in/thekiranmahajan/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/thekiranmahajan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:thekiranmahajan@gmail.com)](mailto:thekiranmahajan@gmail.com) &nbsp; [![Outlook Badge](https://img.shields.io/badge/thekiranmahajan@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:thekiranmahajan@outlook.com)](mailto:thekiranmahajan@outlook.com)&nbsp; [![Twitter Badge](https://img.shields.io/badge/thekiranmahajan-20232A?style=flat&logo=X&logoColor=white&link=https://twitter.com/thekiranmahajan)](https://twitter.com/thekiranmahajan)&nbsp; [![GitHub Badge](https://img.shields.io/badge/thekiranmahajan-20232A?style=flat&logo=GitHub&logoColor=white&link=https://github.com/thekiranmahajan)](https://github.com/thekiranmahajan)
+  [![Linkedin Badge](https://img.shields.io/badge/rohitgangawane-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-gangawane-99341a240)](https://www.linkedin.com/in/rohit-gangawane-99341a240) &nbsp; [![Gmail Badge](https://img.shields.io/badge/rohitgangawane2002@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:rohitgangawane2002@mail.com)](mailto:rohitgangawane2002@gmail.com) &nbsp; [![Outlook Badge](https://img.shields.io/badge/thekiranmahajan@outlook.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:thekiranmahajan@outlook.com)](mailto:thekiranmahajan@outlook.com)&nbsp; [![Twitter Badge](https://img.shields.io/badge/thekiranmahajan-20232A?style=flat&logo=X&logoColor=white&link=https://twitter.com/thekiranmahajan)](https://twitter.com/thekiranmahajan)&nbsp; [![GitHub Badge](https://img.shields.io/badge/rohittgangawane-20232A?style=flat&logo=GitHub&logoColor=white&link=https://github.com/rohittgangawane)](https://github.com/rohitgangawane)
 
 ### 🛠️ Languages and Tools
 
@@ -20,4 +20,4 @@
 
 ### 🔥 Streaks
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thekiranmahajan)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rohittgangawane)
