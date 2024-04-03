@@ -6,7 +6,7 @@
 
 - 📍 I live in Maharashtra, India
 
-- 💻 I am currently working with technologies based on **Python**.
+- 💻 I am currently working with technologies based on **FullStack Developer**.
 
 - 💬 Ask me about **C, Java, Python, SQL, HTML, CSS, Javascript**
 
